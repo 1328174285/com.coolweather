@@ -1,0 +1,5 @@
+/build
+
+dependencies {
+    implementation 'org.litepal.android:core:2.0.0'
+}
